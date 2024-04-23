@@ -1,0 +1,177 @@
+p{
+    width: 850px;
+    position: absolute;
+    left: 110px;
+    top: 190px;
+    font-size: 20px;
+}
+h1{
+   
+    position: absolute;
+    left: 110px;
+    top: 100px;
+    font-size: 50px;
+}
+button{
+    position: absolute;
+    left: 110px;
+    top: 300px;
+    font-size: 15px;
+    border: solid;
+    border-radius: 20%;
+    background-color: purple;
+}
+.one{
+    list-style-type: circle ;
+   
+    position: absolute;
+    left: 60px;
+    top: 885px;
+    width: 450px;
+}
+.main>h1{
+    position: absolute;
+    left: 60px;
+    top: 785px;
+}
+.img{
+    position: absolute;
+    left: 820px;
+    top: 670px; 
+}
+.sub{
+    position: absolute;
+    left: 60px;
+    top: 1170px; }  
+.sub>h1{
+    position: absolute;
+    left: 550px;
+    top: 70px;
+    width: 1000px;
+    font-size: 40px;  
+}
+.sub>p{
+    position: absolute;
+    left: 550px;
+    top: 130px;
+    width: 520px;
+    font-size: 20px;   
+}
+.sub1>h1{
+    position: absolute;
+    left: 60px;
+    top: 1870px;
+    width: 600px;
+    font-size: 40px;  
+}
+.sub1>p{
+    position: absolute;
+    left: 60px;
+    top: 1990px;
+    width: 540px;
+    font-size: 20px;   
+}
+.two{
+    position: absolute;
+    left: 750px;
+    top: 1670px;   
+}
+.sub2>h2{
+    position: absolute;
+    left: 60px;
+    top: 2500px;
+    font-size: 30px;
+}
+.sub2>p{
+    position: absolute;
+    left: 60px;
+    top: 2550px;
+    font-size: 20px;
+    width: 150px;
+}
+.sub3>h3{
+    position: absolute;
+    left: 60px;
+    top: 2650px;
+    font-size: 20px;
+}
+.sub3>p{
+    position: absolute;
+    left: 60px;
+    top: 2680px;
+    font-size: 20px;
+    width: 270px;
+}
+.sub4>h3{
+    position: absolute;
+    left: 410px;
+    top: 2650px;
+    font-size: 20px;
+}
+.sub4>p{
+    position: absolute;
+    left: 410px;
+    top: 2680px;
+    font-size: 20px;
+    width: 270px;
+}
+.sub5>h3{
+    position: absolute;
+    left: 720px;
+    top: 2650px;
+    font-size: 20px;
+}
+.sub5>p{
+    position: absolute;
+    left: 720px;
+    top: 2680px;
+    font-size: 20px;
+    width: 270px;
+}
+.ph1{
+    position: absolute;
+    top: 2860px ;
+    left: 60px;
+    color: purple;
+    font-size: 17px;
+}
+.ph2{
+    position: absolute;
+    top: 2860px ;
+    left: 410px;
+    color: purple;
+    font-size: 17px;
+}
+.ph3{
+    position: absolute;
+    top: 2860px ;
+    left: 720px;
+    color: purple;
+    font-size: 17px;}
+.main2{
+   
+    height: 500px;
+    width: 1000px;
+
+}
+.main2>h1{
+    position: absolute;
+    width: 800px;
+    top: 3200px;
+    left: 250px;
+    
+}
+.main2>p{
+    position: absolute;
+    width: 700px;
+    top: 3340px;
+    left: 330px;
+    font-size: 25px;
+}
+.main2>button{
+    position: absolute;
+    
+    top: 3420px;
+    left: 550px;
+    font-size: 22px;
+}
